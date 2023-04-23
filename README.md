@@ -1,4 +1,26 @@
 Shane Beck, Student at SNHU for a Bachelors in Computer Science.
+
+Software Design Document for The Gaming Room:
+
+Summary:
+    Draw It or Lose It, the game where teams will compete to guess what is being drawn, where they will use rendered stock drawings as clues. It was consist of four rounds of one minute each, with the drawing clues being fully complete at the 30-second mark. Each team will have a chance to offer a guess provided the first team fails to guess. Our client, The Gaming Room, requires our help to setup the environment for a web-based version of the game which is currently only available as an android application.
+
+What did you do particularly well in developing this documentation?
+    I analyzed the clients requirements thoroughly and recommended software that I found would be best for their needs. I believe that this is one aspect that I did very well.
+
+What about the process of working through a design document did you find helpful when developing the code?
+    Having the details of the document spelled out for me in a manner of speaking allowed me to easily decide what exactly I needed to code and how much more easily.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+    I would work more on the design constraints, going more in-depth and in general just improving them to the clients specifications.
+
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+    I made sure to implement their needs through ensuring the software would be easy for the user to use. If the user's needs are not considered then the design of the software is destined to fail, no user, no software.
+
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+    I approached it through a thought-out part by part method, constructing one piece at a time and slowly building on top of it. In the future I believe it would be best to add more OOP elements into my design.
+
+Contact List:
 Project Developed during the february of 2023.
 
 Summarize the project and what problem it was solving.:
