@@ -1,6 +1,7 @@
 Shane Beck, Student at SNHU for a Bachelors in Computer Science.
 
 Software Design Document for The Gaming Room:
+Project Developed during April of 2023.
 
 Summary:
     Draw It or Lose It, the game where teams will compete to guess what is being drawn, where they will use rendered stock drawings as clues. It was consist of four rounds of one minute each, with the drawing clues being fully complete at the 30-second mark. Each team will have a chance to offer a guess provided the first team fails to guess. Our client, The Gaming Room, requires our help to setup the environment for a web-based version of the game which is currently only available as an android application.
@@ -21,7 +22,7 @@ How did you approach designing software? What techniques or strategies would you
     I approached it through a thought-out part by part method, constructing one piece at a time and slowly building on top of it. In the future I believe it would be best to add more OOP elements into my design.
 
 Contact List:
-Project Developed during the february of 2023.
+Project Developed during february of 2023.
 
 Summarize the project and what problem it was solving.:
     the project is that of a contact list, in essence a contact list is a list that works through "contacting" or linking multiple objects together through properties of each object. You could view it similarly to a family tree in the sense that a mother is linked to their son, and the son is linked to his wife and children, etc.
