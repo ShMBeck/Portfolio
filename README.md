@@ -1,5 +1,5 @@
 Shane Beck, Student at SNHU for a Bachelors in Computer Science.
-Projected Developed during the february of 2023.
+Project Developed during the february of 2023.
 
 Summarize the project and what problem it was solving.:
     the project is that of a contact list, in essence a contact list is a list that works through "contacting" or linking multiple objects together through properties of each object. You could view it similarly to a family tree in the sense that a mother is linked to their son, and the son is linked to his wife and children, etc.
