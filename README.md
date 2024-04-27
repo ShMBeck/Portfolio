@@ -47,21 +47,32 @@ How did you approach designing software? What techniques or strategies would you
 **CS-250-R4763 Software Development Lifecycle 24EW4**
 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
+
+Interpreting user needs involves understanding the requirements and expectations of the end-users and translating them into actionable tasks for development. User stories serve as a valuable tool in this process by providing a structured format for capturing user requirements from their perspective. By creating user stories, we can articulate user needs in a clear and concise manner, making it easier to prioritize and implement them into the program effectively.
     
 **How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?**
+
+When approaching program development, I prioritize collaboration, adaptability, and continuous improvement. Agile processes, such as Scrum, have been instrumental in facilitating these principles by promoting iterative development, frequent feedback, and flexibility in responding to change. In my future development work, I aim to incorporate agile practices such as sprint planning, daily stand-up meetings, and regular retrospectives to enhance productivity, transparency, and stakeholder satisfaction.
     
 **What does it mean to be a good team member in software development?**
+
+Being a good team member in software development entails effective communication, collaboration, and a commitment to shared goals. It involves actively listening to teammates, respecting diverse perspectives, and contributing constructively to discussions and decision-making processes.
 
 **CS-255-R4796 System Analysis and Design 24EW4**
 
 **Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?**
+Client: DriverPass
+Objective: To design a system that enhances the preparation for driving tests through online and on-the-road training. DriverPass aimed to fill a market gap by providing a robust platform that supports scheduling lessons, managing user data, and integrating updates from the DMV.
 
 **What did you do particularly well?**
+I excelled in integrating user feedback mechanisms into the system design, ensuring that DriverPass could continually adapt to user needs and preferences, therefore improving customer satisfaction and system usability.
 
 **If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**
+I think if I were to improve anything I would like to improve my diagrams; My digrams could have been more detailed and addressed more use cases, etc.
 
 **How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?**
+User needs were interpreted through engaging with client interviews and user scenarios, which helped in designing a system that is intuitive and meets practical requirements. Considering user needs is crucial because it ensures the system will be actively used and valued by its intended audience, thereby fulfilling its purpose.
 
 **How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?**
-
+My approach includes thorough requirement analysis, iterative design with user feedback, and using modeling tools like UML diagrams for clarity in system architecture. In future projects, I plan to incorporate more prototyping and agile methodologies to allow for flexible and adaptive system design, ensuring that user feedback and changing requirements can be integrated seamlessly into the development process.
 
