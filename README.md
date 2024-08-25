@@ -1,5 +1,33 @@
 **Shane Beck, Student at SNHU for a Bachelors in Computer Science.**
+**CS 305 Artemis Financial Project**
 
+1. Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
+
+Artemis Financial is a consulting company that specializes in creating personalized financial plans for its clients, including savings, retirement, investments, and insurance. The company sought to modernize its operations by integrating advanced software security measures to protect sensitive financial data transmitted through its public web interface. Specifically, Artemis Financial required a secure communication mechanism, including the addition of a file verification step via checksum, to ensure the integrity and security of data during transmission.
+2. What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
+
+I conducted a thorough analysis of the existing software to identify potential security vulnerabilities, focusing on the absence of encryption and the need for data integrity checks. By implementing SSL/TLS encryption and a checksum verification mechanism, I addressed these vulnerabilities effectively. Secure coding is crucial because it minimizes the risk of data breaches, protects client information, and maintains the integrity of the software. Software security significantly enhances a company's reputation, customer trust, and compliance with industry regulations, ultimately contributing to the company’s overall success and longevity.
+3. Which part of the vulnerability assessment was challenging or helpful to you?
+
+The most challenging part of the vulnerability assessment was ensuring that the SSL/TLS configuration was correctly implemented, especially when dealing with self-signed certificates. Understanding the intricacies of certificate management and trust issues was crucial. On the other hand, using tools like the OWASP Dependency-Check was extremely helpful in identifying vulnerabilities in third-party libraries, which are often overlooked but can be a significant security risk.
+4. How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
+
+I increased layers of security by enabling HTTPS for secure communication, implementing checksum verification for data integrity, and using static analysis tools to identify and address potential vulnerabilities in the codebase. In the future, I would continue to use a combination of automated tools, such as OWASP Dependency-Check, and manual code reviews to assess vulnerabilities. Additionally, adopting a defense-in-depth approach, where multiple security controls are layered, would be key to mitigating risks effectively.
+5. How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
+
+I ensured the functionality and security of the code by running comprehensive unit tests, including testing the checksum endpoint for accuracy and ensuring the application ran smoothly over HTTPS without any security warnings. After refactoring the code, I used the OWASP Dependency-Check tool to perform static analysis and identify any new vulnerabilities introduced during the changes. This combination of testing and static analysis provided confidence that the application remained secure and functional.
+6. What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+
+The resources and tools that were particularly helpful include:
+
+    Java Keytool: For generating and managing SSL certificates.
+    Spring Boot: For building secure web applications with integrated support for SSL/TLS.
+    OWASP Dependency-Check: For identifying vulnerabilities in third-party dependencies.
+    Best Practices: Adopting secure coding practices, such as input validation, proper error handling, and the principle of least privilege, which are essential for maintaining secure applications.
+
+7. Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+
+From this assignment, I would showcase my ability to identify and mitigate software security vulnerabilities effectively. I would highlight my work on implementing SSL/TLS encryption, setting up a secure checksum verification system, and using industry-standard tools like OWASP Dependency-Check to maintain the security and integrity of the software. These examples demonstrate my proficiency in secure coding practices, problem-solving, and my commitment to delivering secure and reliable software solutions.
 **Software Design Document for The Gaming Room:**
 **Project Developed during April of 2023.**
 
