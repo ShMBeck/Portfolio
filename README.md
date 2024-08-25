@@ -48,6 +48,26 @@ Summary:
 **
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?**
     I approached it through a thought-out part by part method, constructing one piece at a time and slowly building on top of it. In the future I believe it would be best to add more OOP elements into my design.
+**CS 300 Portfolio Submission**
+What was the problem you were solving in the projects for this course?
+
+In CS 300, I worked on developing an advising assistance program for ABCU's Computer Science department. The first project involved designing pseudocode to display a list of courses in alphanumeric order and show the title and prerequisites for a selected course. The second project focused on implementing this pseudocode into functional C++ code.
+
+How did you approach the problem? Consider why data structures are important to understand.
+
+I approached the problem by selecting and analyzing three data structures—vector, hash table, and tree—to determine which would best meet the program's requirements. Understanding data structures is critical because they directly impact the efficiency and performance of software. My analysis in the first project informed the choice of the optimal data structure for the second project.
+
+How did you overcome any roadblocks you encountered while going through the activities or project?
+
+I faced challenges in correctly loading data and ensuring the sorting algorithm functioned as intended. To overcome these, I revisited fundamental concepts, used thorough testing, and employed debugging techniques to ensure the program handled all scenarios effectively.
+
+How has your work on this project expanded your approach to designing software and developing programs?
+
+This project deepened my understanding of the importance of planning and analysis before coding. Writing pseudocode, analyzing data structures, and evaluating trade-offs have taught me to approach complex programming problems more systematically.
+
+How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+
+I’ve learned the importance of clear and concise code, meaningful variable names, and inline comments. These practices enhance code maintainability and readability.
 
 **Contact List:**
 **Project Developed during february of 2023.**
