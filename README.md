@@ -1,3 +1,17 @@
+**CS-320-15552-M01**
+
+How can I ensure that my code, program, or software is functional and secure?
+
+To ensure that my code is functional, I implemented unit tests that validated each service against the project’s requirements. These tests confirmed accurate data handling, such as enforcing unique IDs and limiting field lengths. By validating inputs and adhering to requirements, I helped to ensure basic security and reliability within the application.
+  
+How do I interpret user needs and incorporate them into a program?
+
+Interpreting user needs involved analyzing project requirements to define the expected behaviors of each service. I translated these requirements into class attributes and methods, ensuring the services met functional needs. Regular testing helped verify alignment between user needs and implemented features.
+
+How do I approach designing software?
+    
+My design approach centered on creating modular, maintainable code by structuring classes for easy data management and testing. Using in-memory data structures enabled much more efficient, database-free storage, while JUnit tests ensured each method performed as expected. This approach helped to promote flexibility, making it easier to adapt code if future changes were needed.
+
 **Shane Beck, Student at SNHU for a Bachelors in Computer Science.**
 **CS 305 Artemis Financial Project**
 
