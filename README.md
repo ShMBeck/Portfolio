@@ -1,3 +1,20 @@
+CS-330-12766-M01 Comp Graphic and Visualization
+How do I approach designing software?
+
+Designing software requires a structured approach that balances creativity, problem-solving, and efficiency. Throughout this project, I refined my ability to design 3D scenes by considering both visual aesthetics and functional implementation. One new design skill I developed was how to break down complex objects into basic geometric shapes, ensuring that each component could be efficiently rendered while maintaining realism.
+
+For my design process, I followed an iterative approach, starting with fundamental shapes, refining their transformations, and gradually introducing textures and lighting. By focusing on incremental improvements, I was able to test each new addition in real-time, ensuring that the scene evolved logically without introducing major errors. Moving forward, I can apply this modular and incremental design approach to other projects, especially those that involve 3D modeling, game development, or interactive simulations.
+How do I approach developing programs?
+
+Developing programs, especially in OpenGL, requires a balance between logic, structure, and efficiency. In this project, I utilized new development strategies, such as applying UV mapping for textures, carefully managing lighting calculations, and structuring the scene using transformations and modular functions. These techniques improved my ability to create visually cohesive and computationally efficient graphics.
+
+Iteration played a significant role in my development process. I frequently tested and refined my code, checking each transformation, texture application, and lighting effect before moving on to the next step. This iterative workflow helped me catch issues early and fine-tune details, ensuring that the final scene met both functional and aesthetic requirements. Over the course of the milestones, my approach to development became more structured—I started by building a solid foundation (basic meshes and transformations) and then layered in complexity (textures, lighting, and material properties). This experience has reinforced the importance of incremental development and debugging in stages, which I will apply in future projects.
+How can computer science help me in reaching my goals?
+
+Computational graphics and visualizations have given me a strong foundation in 3D rendering, lighting, and transformations, which are applicable in multiple domains. In my educational journey, these skills will be beneficial for advanced graphics programming, game development, virtual reality (VR), and simulations. Understanding how to manipulate 3D environments will allow me to explore interactive media, AI-driven graphics, and physics-based simulations in future coursework.
+
+Professionally, the ability to work with computer graphics is valuable in software development, game design, animation, architectural visualization, and scientific simulations. The problem-solving and logical structuring skills I developed in this project will also be useful in software engineering, data visualization, and user interface design. As I move forward, I plan to expand my expertise in shader programming, GPU acceleration, and procedural generation to further enhance my ability to create visually compelling and computationally efficient 3D environments.
+
 **CS-320-15552-M01**
 
 How can I ensure that my code, program, or software is functional and secure?
